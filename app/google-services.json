@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602051559102",
+    "firebase_url": "https://coronavairuss.firebaseio.com",
+    "project_id": "coronavairuss",
+    "storage_bucket": "coronavairuss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602051559102:android:d46d534ceda318983868ef",
+        "android_client_info": {
+          "package_name": "com.app.coronavairuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602051559102-ibf3eesjq54birikd53kmrgtj8jpi375.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.coronavairuss",
+            "certificate_hash": "170e255adcc8cf558c4bf864eb079ede0e3943ae"
+          }
+        },
+        {
+          "client_id": "602051559102-urg324kt8qqpfcbeeel7la6c5j1ifdbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrj-agvk6jUj7ezR4C-G1tgVSgEcydVeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602051559102-urg324kt8qqpfcbeeel7la6c5j1ifdbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
